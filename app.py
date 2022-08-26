@@ -91,10 +91,10 @@ st.subheader('To go further')
 st.write("[5 Must-Do’s for Writing Inclusive Job Descriptions](https://www.linkedin.com/business/talent/blog/talent-acquisition/must-dos-for-writing-inclusive-job-descriptions)")
 st.write("[How to Write Inclusive Job Descriptions](https://www.lever.co/blog/how-to-write-an-inclusive-job-description/)")
 
-
 st.subheader('Other projects')
 st.write("[Document similarity](https://vallantin-textsimilarity-app-gopds6.streamlitapp.com/)")
 st.write("[NLP Resources dashboard](https://vallantin-nlp-resources-app-1c6nvk.streamlitapp.com/)")
+st.write("[Fashion brands similarity dashboard](https://vallantin-fashion-brands-app-b9zllh.streamlitapp.com/)")
 
 # ------------------------------------------------------------------------------------
 st.markdown("""---""")
