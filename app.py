@@ -94,6 +94,7 @@ st.write("[How to Write Inclusive Job Descriptions](https://www.lever.co/blog/ho
 
 st.subheader('Other projects')
 st.write("[Document similarity](https://vallantin-textsimilarity-app-gopds6.streamlitapp.com/)")
+st.write("[NLP Resources dashboard](https://vallantin-nlp-resources-app-1c6nvk.streamlitapp.com/)")
 
 # ------------------------------------------------------------------------------------
 st.markdown("""---""")

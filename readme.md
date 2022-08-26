@@ -11,3 +11,7 @@ You will need streamlit to run this app locally. Install the packages on the req
 ```
 streamlit run app.py
 ```
+
+## View it online
+
+[Job description generator dashboard](https://vallantin-jobdescriptiongenerator-app-5wz0u4.streamlitapp.com/)
