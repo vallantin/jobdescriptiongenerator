@@ -95,6 +95,7 @@ st.subheader('Other projects')
 st.write("[Document similarity](https://vallantin-textsimilarity-app-gopds6.streamlitapp.com/)")
 st.write("[NLP Resources dashboard](https://vallantin-nlp-resources-app-1c6nvk.streamlitapp.com/)")
 st.write("[Fashion brands similarity dashboard](https://vallantin-fashion-brands-app-b9zllh.streamlitapp.com/)")
+st.write("[Text summarization](https://vallantin-text-summarization-app-slnq0j.streamlitapp.com/)")
 
 # ------------------------------------------------------------------------------------
 st.markdown("""---""")
